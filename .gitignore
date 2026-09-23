@@ -8,3 +8,14 @@ context.md
 node_modules/
 package-lock.json
 .video_tmp/
+
+# Python & Environment
+.venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+devpulse-agent/.venv/
+devpulse-agent/.env
+devpulse-agent/__pycache__/
+devpulse-agent/data/
